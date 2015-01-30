@@ -1,9 +1,13 @@
 # Last Social Network
 
+## Identity
+
+* [namecoin](http://namecoin.info/)
+* [identi.fi](http://identi.fi/)
+
 ## Storage
 
-* Blockchains - identity
-* DHTs - storage 
+* [MAIDSAFE](http://maidsafe.net/)
 
 ## Sync 
 
