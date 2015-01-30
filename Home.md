@@ -15,7 +15,7 @@ Defined by sharing, which is done by group sync tools
 
 * [syncthing](http://syncthing.net/)
 
-## Graph node format
+## Graph structure 
 
 * [Nodesphere](http://nodesphere.org)
 
