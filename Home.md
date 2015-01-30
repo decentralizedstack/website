@@ -9,9 +9,11 @@
 
 * [MAIDSAFE](http://maidsafe.net/)
 
-## Sync 
+## Circles
 
-* Sync tools - circles
+Defined by sharing, which is done by group sync tools 
+
+* [syncthing](http://syncthing.net/)
 
 ## Semantic interoperability
 
