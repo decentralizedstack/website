@@ -46,4 +46,5 @@ Defined by sharing, which is done by group sync tools
 
 ### Giant Global Graph
 
-* Omnicentric visual interfaces allow you to naturally explore the connections
+* Your personal graph server serves up your public and private content, either free or monetized 
+* Omnicentric visual interfaces allow you to naturally explore connections 
