@@ -29,3 +29,9 @@ Defined by sharing, which is done by group sync tools
 
 * [Heroku](http://heroku.com) (includes free options) #now
 * [Airstack](http://airstack.io) (uses Docker containers) #now
+
+## Memes
+
+* Semantic Currency
+* Viral Private Sharing - sharing a "group" or "federation" private key, which unlocks a whole body of content, and is intended to be reshared
+* 
