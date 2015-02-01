@@ -43,3 +43,7 @@ Defined by sharing, which is done by group sync tools
 * No central authority
 * Vendor Relationship Management
 * You own your data - accessed through Self Authentication
+
+### Giant Global Graph
+
+* Omnicentric visual interfaces allow you to naturally explore the connections
