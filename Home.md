@@ -32,7 +32,8 @@ Defined by sharing, which is done by group sync tools
 
 ## Memes
 
-* Semantic Currency
+* Semantic Currency - our words and ideas and sensemaking
+* Private by default - creating value networks within our own flexible "walled gardens"
 * Viral Private Sharing - sharing a "group" or "federation" private key, which unlocks a whole body of content, and is intended to be reshared
 * Vendor Relationship Management
 * You own your data
