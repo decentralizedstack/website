@@ -49,5 +49,5 @@ Defined by sharing, which is done by group sync tools
 ### Deployment
 
 * [Heroku](http://heroku.com) (includes free options) #now
-* [Airstack](http://airstack.io) (uses Docker containers) #now
+* [Airstack](http://airstack.io) (uses Docker containers) #soon
 
