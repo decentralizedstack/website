@@ -46,7 +46,7 @@ Defined by sharing, which is done by group sync tools
 * [Noomap](http://noomap.info) #soon
 * [Core Network](https://prezi.com/kkthz9qn0jsa/core-network-presentation/) #soon
 
-### Deployment
+### Hosting & Deployment
 
 * [Heroku](http://heroku.com) (includes free options) #now
 * [Airstack](http://airstack.io) (uses Docker containers) #soon
