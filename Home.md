@@ -34,4 +34,7 @@ Defined by sharing, which is done by group sync tools
 
 * Semantic Currency
 * Viral Private Sharing - sharing a "group" or "federation" private key, which unlocks a whole body of content, and is intended to be reshared
-* 
+* Vendor Relationship Management
+* You own your data
+* No central authority
+* Self Authentication
