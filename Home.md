@@ -1,31 +1,33 @@
 # Last Social Network
 
-## Identity
+## Architecture
+
+### Identity
 
 * [namecoin](http://namecoin.info/) #now
 * [identi.fi](http://identi.fi/) #now
 
-## Storage
+### Storage
 
 * [MAIDSAFE](http://maidsafe.net/) #soon
 
-## Circles
+### Circles
 
 Defined by sharing, which is done by group sync tools 
 
 * [syncthing](http://syncthing.net/) #now
 
-## Graph structure 
+### Graph structure 
 
 * [Nodesphere](http://nodesphere.org) #soon
 
-## Visualization 
+### Visualization 
 
 * [Metamaps](http://Metamaps.cc) #now
 * [Noomap](http://noomap.info) #soon
 * [Core Network](https://prezi.com/kkthz9qn0jsa/core-network-presentation/) #soon
 
-## Deployment
+### Deployment
 
 * [Heroku](http://heroku.com) (includes free options) #now
 * [Airstack](http://airstack.io) (uses Docker containers) #now
