@@ -24,3 +24,8 @@ Defined by sharing, which is done by group sync tools
 * [Metamaps](http://Metamaps.cc)
 * [Noomap](http://noomap.info)
 * [Core Network](https://prezi.com/kkthz9qn0jsa/core-network-presentation/)
+
+## Deployment
+
+* [Heroku](http://heroku.com) (includes free options)
+* [Airstack](http://airstack.io) (uses Docker containers)
