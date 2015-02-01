@@ -4,9 +4,9 @@
 
 ### You are the value
 
-* Semantic Currency - our words and ideas and sensemaking is itself the most valuable currency
 * Private by default - creating value networks within our own flexible "walled gardens"
 * Viral Private Sharing - sharing a "group" or "federation" private key, which unlocks a whole body of content, and is intended to be reshared
+* Semantic Currency - our words and ideas and sensemaking is itself the most valuable currency
 
 ### The power is in your hands
 
