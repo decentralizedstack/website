@@ -29,6 +29,7 @@
 ### Storage
 
 * [MAIDSAFE](http://maidsafe.net/) #soon
+* [IPFS](http://ipfs.io/) #soon
 
 ### Circles
 
