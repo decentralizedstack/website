@@ -7,10 +7,23 @@ The Last Social Network (LSN) is not intended to be yet-another social networkin
 # The Components  
 
 ##Identity  
-Identity is at the core of the network. Without identity under the control of the users, they will just be forced back into another system where third parties dictate the terms of their participation in the network. The LSN will incorporate only those identity technologies which a) give users full control while b) preserving a familiar and high-quality user experience.
+Identity is at the core of the LSN. Without identity under the control of the users, they will just be forced back into another system where third parties dictate the terms of their participation in the network. The LSN will incorporate only those identity technologies which a) give users full control while b) preserving a familiar and high-quality user experience.
 
 ###OpenName  
 The OpenName protocol is a "decentralized name, identity, and auth protocol built on Bitcoin technology" [4]. Combining public/private key cryptography with a distributed ledger and transaction processing system allows the OpenName protocol to satisfy the needs for a digital identity that is at the same time a) secure b) decentralized and c) human-readable [5]. This satisfies the requirement that users have full control while preserving a familiar and high-quality user experience.  
+
+##Storage  
+It's been said that "data is the new oil" [6]. For users to tap into the value of their data, they must first own and control it. The LSN will incorporate only those storage technologies which a) give users first claim to ownership of their data, b) make data the user chooses to share available even if the user is offline, c) provide options to easily encrypt and decrypt data, and d) make the user experience seamless. 
+
+###SAFE  
+SAFE, which stands for "Secure Access For Everyone", is "a fully distributed data management service" [7]. Data stored on the SAFE network is either encrypted by the client or cryptographically signed by the client, then broken up into multiple pieces and redundantly stored on other computers participating in the network. The SAFE network uses a built-in cryptocurrency called safecoin to offer computers in the network an economic incentive to store data and make it available in the future. This cryptocurrency is secured by a method known as "close consensus" based on close groups as determined by the deterministic XOR distance between nodes [8]. Users pay safecoin to have their data stored by the network, and data storage nodes called "farmers" are paid safecoins each time data they are storing is retrieved. This data storage economy creates a self-regulating system which ensures data availability and security. 
+
+###IPFS  
+IPFS, which stands for "Inter Planetary File System", "combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects" [8]. Like SAFE, IPFS integrates a cryptocurrency, called filecoin, to provide economic incentives to computers offering storage to the network. Unlike SAFE, filecoin uses a block chain for consensus [10].  
+
+Due to the combination of distributed file storage and economic incentives, IPFS shares many of the benefits offered by SAFE. An additional benefit of having a built-in cryptocurrency is the design goal of having data monetization built-in natively. We can use the same coin used to pay for storage to also pay for data exchanges.  
+
+For both security reasons and to satisfy the requirement that the user experience be seamless, application developers should integrate whichever storage solution works as expected, meets scalability requirements for a global social network, and has the biggest network effect. In effect, this is TBD.  
 
 
 [1] http://motherboard.vice.com/blog/what-happened-to-the-facebook-killer-it-s-complicated  
@@ -18,3 +31,10 @@ The OpenName protocol is a "decentralized name, identity, and auth protocol buil
 [3] http://techcrunch.com/2013/08/18/the-internet-were-doing-it-wrong/  
 [4] https://github.com/openname  
 [5] http://www.aaronsw.com/weblog/squarezooko  
+[6] http://www.wired.com/2014/07/data-new-oil-digital-economy/  
+[7] http://maidsafe.net/overview  
+[8] http://blog.maidsafe.net/2015/01/29/consensus-without-a-blockchain/  
+[9] http://ipfs.io/  
+[10] [PDF] http://filecoin.io/filecoin.pdf  
+
+
