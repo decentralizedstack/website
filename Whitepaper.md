@@ -25,6 +25,14 @@ Due to the combination of distributed file storage and economic incentives, IPFS
 
 For both security reasons and to satisfy the requirement that the user experience be seamless, application developers should integrate whichever storage solution works as expected, meets scalability requirements for a global social network, and has the biggest network effect. In effect, this is TBD.  
 
+##Circles  
+Circles allow you to share data only with certain groups of people. You might have some aspects of your life that you only share with co-workers, some that you only share with family and close friends, and others that can be public for all to see. Groups which are enforced by cryptography and p2p trust networks enable this feature that some social networks fall short in implementing and others lack completely.  
+
+###Syncthing
+Syncthing offers "private, secure, authenticated" data sharing: "Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet" [11]. Combined with the previously listed components, Syncthing can be used to create a more secure group sharing environment for blog posts, status updates, instant messaging, and more. 
+
+##Graph Structure
+
 
 [1] http://motherboard.vice.com/blog/what-happened-to-the-facebook-killer-it-s-complicated  
 [2] https://web.archive.org/web/20140701054154/http://insightsintoamodernworld.blogspot.co.uk/2014/04/apps-what-web-30-looks-like.html  
@@ -36,5 +44,4 @@ For both security reasons and to satisfy the requirement that the user experienc
 [8] http://blog.maidsafe.net/2015/01/29/consensus-without-a-blockchain/  
 [9] http://ipfs.io/  
 [10] [PDF] http://filecoin.io/filecoin.pdf  
-
-
+[11] http://www.syncthing.net/
