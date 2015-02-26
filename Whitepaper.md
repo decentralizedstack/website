@@ -34,7 +34,7 @@ With Nodesphere, apps will be able to combine multiple data sources into one com
 Identity is at the core of the LSN, serving as a constant between apps that utilize a user's data. No longer will users have to choose between creating a username and password or compromising privacy by using third-party "social sign-on" services each time they use a new app. The LSN incorporates identity technology which a) gives users full control while b) preserving a familiar and high-quality user experience.  
 
 ###OpenName  
-The OpenName protocol is a "decentralized name, identity, and auth protocol built on Bitcoin technology" [10]. By combining asymmetric cryptography with a distributed public ledger and transaction processing system, the OpenName protocol provides a digital identity that is at the same time a) secure b) decentralized and c) human-readable [11]. This satisfies the requirement that users have full control while preserving a familiar and high-quality user experience.  
+The OpenName protocol is a "decentralized name, identity, and auth protocol built on Bitcoin technology" [10]. By combining asymmetric cryptography with a distributed public ledger and decentralized transaction ordering and processing system i.e. a block chain, the OpenName protocol provides a digital identity that is at the same time a) secure b) decentralized and c) human-readable [11]. This satisfies the requirement that users have full control while preserving a familiar and high-quality user experience.  
 
 
 [1] <http://www.quora.com/The-Future-of-Facebook-Project>  
