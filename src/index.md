@@ -50,5 +50,5 @@ Defined by sharing, which is done by group sync tools
 ### Hosting & Deployment
 
 * [Heroku](http://heroku.com) (includes free options) #now
-* [Airstack](http://airstack.io) (uses Docker containers) #soon
+* [Flynn](https://flynn.io/) (open source; uses Docker containers) #now
 
