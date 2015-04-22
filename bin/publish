@@ -10,4 +10,5 @@ dist = path.join __dirname, '..', 'dist'
 options =
   dotfiles: true
 
-ghpages.publish dist, options, handle_error
+# ghpages.publish dist, options, handle_error
+ghpages.publish dist, handle_error
