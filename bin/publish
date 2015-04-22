@@ -3,4 +3,5 @@
 ghpages = require 'gh-pages'
 path = require 'path'
 
-ghpages.publish path.join(__dirname, '..', 'dist'), (err) -> console.error arguments
+dist = path.join(__dirname, '..', 'dist')
+ghpages.publish dist, (err) -> console.error err if err
