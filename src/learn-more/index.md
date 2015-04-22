@@ -71,10 +71,10 @@ Data can be discovered through nodespheres, which are constructed by the user as
 [6] <http://ipfs.io/>  
 [7] <http://filecoin.io/filecoin.pdf>  
 [8] <http://dig.csail.mit.edu/breadcrumbs/node/215>  
-[9] <https://github.com/nodesphere/nodesphere#nodesphere> 
+[9] <https://github.com/nodesphere/nodesphere#nodesphere>  
 [10] <https://github.com/openname>  
-[11] <http://www.aaronsw.com/weblog/squarezooko>   
-[12] <https://okturtles.com/other/dnschain_okturtles_overview.pdf>
+[11] <http://www.aaronsw.com/weblog/squarezooko>  
+[12] <https://okturtles.com/other/dnschain_okturtles_overview.pdf>  
 [13] <http://www.unhosted.org>  
 [14] <http://www.cnn.com/2014/03/17/tech/innovation/the-ophone-phone-lets-you-send-smells/index.html>  
 [15] <http://homes.cs.washington.edu/~rao/brain2brain/>  
