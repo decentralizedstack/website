@@ -1,7 +1,10 @@
+general:
+  branches:
+    ignore:
+      - gh-pages
+
 deployment:
   production:
     branch: master
     commands:
       - npm run publish
-    # heroku:
-    #   appname: dstack-website
