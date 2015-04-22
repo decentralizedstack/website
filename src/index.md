@@ -2,9 +2,9 @@
 
 ### We are the value
 
-* Our information is private by default; when we share, this sharing should also be private by default.  This private sharing creates value networks within our own "walled gardens"
-* Viral Private Sharing - sharing a "group" or "federation" private key, which unlocks a whole body of content, and is intended to be reshared
-* Semantic Currency - our words and ideas and sensemaking is itself the most valuable currency
+* **Private Sharing** creates value ecosystems: our information is private by default; when we share, this sharing should also be private by default.  This private sharing creates value networks within our own "walled gardens".
+* Imagine **viral private sharing**, where we share a "group" or "federation" private key, which unlocks a whole body of content, viral in the sense that these keys are intended to be reshared, with each additional share increasing the reach and value of the content.
+* **Semantic Currency** - our words, ideas and sensemaking are themselves the most valuable currency.
 
 ### The power is in our hands
 
