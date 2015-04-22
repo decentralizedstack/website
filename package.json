@@ -9,7 +9,7 @@
     "shipit": "npm test && git push origin head",
     "start": "./node_modules/.bin/harp server --port ${PORT:=9000} src",
     "test": "npm run compile",
-    "watch": "browser-sync start --port 8080 --proxy 'localhost:9000' --files 'src/*.json, src/*.jade, src/styles/*, src/img/*'"
+    "watch": "browser-sync start --port 8080 --proxy 'localhost:9000' --files 'src/**/*'"
   },
   "author": "Harlan T Wood",
   "license": "",
