@@ -5,9 +5,8 @@ path = require 'path'
 
 handle_error = (error) ->
   if error
-    console.log error
-    console.log "~"
-    throw new Error error.toString()
+    console.error error
+    process.exit 1
 
 dist = path.join __dirname, '..', 'dist'
 
