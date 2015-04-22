@@ -3,7 +3,11 @@
 ghpages = require 'gh-pages'
 path = require 'path'
 
-handle_error = (error) -> throw new Error error if error
+handle_error = (error) ->
+  if error
+    console.log error
+    console.log "~"
+    throw new Error error.toString()
 
 dist = path.join __dirname, '..', 'dist'
 
