@@ -6,11 +6,17 @@ path = require 'path'
 handle_error = (error) ->
   if error
     console.error error
-    process.exit 1
+    process.exit error.code or 1
+
+handle_info = (message) -> console.log message
 
 dist = path.join __dirname, '..', 'dist'
 
 options =
+  logger: handle_info
   dotfiles: true
+  user:
+    name: 'Deploy Bot',
+    email: 'deploy+bot@dstack.org'
 
 ghpages.publish dist, options, handle_error
