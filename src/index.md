@@ -1,5 +1,3 @@
-# Last Social Network
-
 ## Principles
 
 ### You are the value
@@ -23,32 +21,29 @@
 
 ### Identity
 
-* [namecoin](http://namecoin.info/) #now
-* [identi.fi](http://identi.fi/) #now
+* [namecoin](http://namecoin.info/) 
+* [identi.fi](http://identi.fi/) 
 
 ### Storage
 
-* [MAIDSAFE](http://maidsafe.net/) #soon
-* [IPFS](http://ipfs.io/) #soon
+* [MAIDSAFE](http://maidsafe.net/) (soon)
+* [IPFS](http://ipfs.io/) (soon)
 
 ### Circles
 
 Defined by sharing, which is done by group sync tools 
 
-* [syncthing](http://syncthing.net/) #now
+* [syncthing](http://syncthing.net/) 
 
 ### Graph structure 
 
-* [Nodesphere](http://nodesphere.org) #soon
+* [XDI](http://en.wikipedia.org/wiki/XDI) 
 
 ### Visualization 
 
-* [Metamaps](http://Metamaps.cc) #now
-* [Noomap](http://noomap.info) #soon
-* [Core Network](https://prezi.com/kkthz9qn0jsa/core-network-presentation/) #soon
+* [Metamaps](http://Metamaps.cc) 
 
 ### Hosting & Deployment
 
-* [Heroku](http://heroku.com) (includes free options) #now
-* [Flynn](https://flynn.io/) (open source; uses Docker containers) #now
+* [Flynn](https://flynn.io/) (open source; uses Docker containers) 
 
