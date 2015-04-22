@@ -17,8 +17,18 @@ html.no-js(lang='en')
             | Decentralized Open Technology Stack
 
     .row.about
-      .large-12.columns
-        != yield
+      != yield
+
+    hr
+    .row
+      p 
+        img(alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png")
+        |  This is free IP released under a 
+        a(rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/") CC BY SA 4.0
+        |  license.
+      p 
+        :markdown
+          Banner image [CC BY SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), thanks to the [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Cannonball_stack_with_FCC_unit_cell.jpg)
 
     script(src='/js/vendor/jquery.js')
     script(src='/js/foundation.min.js')
