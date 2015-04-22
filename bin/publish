@@ -3,5 +3,11 @@
 ghpages = require 'gh-pages'
 path = require 'path'
 
-dist = path.join(__dirname, '..', 'dist')
-ghpages.publish dist, (err) -> console.error err if err
+handle_error = (err) -> console.error err if err
+
+dist = path.join __dirname, '..', 'dist'
+
+options =
+  dotfiles: true
+
+ghpages.publish dist, options, handle_error
