@@ -8,4 +8,4 @@ We welcome pull requests and forks.
 Licenses: 
 
   - Content is [CC BY SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
-  - Infrastructure by [@harlantwood](https://github.com/harlantwood) licensed [ISC](http://opensource.org/licenses/ISC)
+  - Infrastructure by [@harlantwood](https://github.com/harlantwood), licensed [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
