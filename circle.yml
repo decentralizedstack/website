@@ -1,5 +1,7 @@
 deployment:
   production:
     branch: master
-    heroku:
-      appname: dstack-website
+    commands:
+      - npm run publish
+    # heroku:
+    #   appname: dstack-website
