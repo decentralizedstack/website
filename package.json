@@ -4,10 +4,11 @@
   "description": "DStack: A Decentralized Open Technology Stack",
   "main": "server.js",
   "scripts": {
-    "compile": "./node_modules/.bin/harp compile src dist",
+    "compile": "harp compile src dist",
     "dev": "npm start & npm run watch",
+    "publish": "npm run compile && bin/publish",
     "shipit": "npm test && git push origin head",
-    "start": "./node_modules/.bin/harp server --port ${PORT:=9000} src",
+    "start": "harp server --port ${PORT:=9000} src",
     "test": "npm run compile",
     "watch": "browser-sync start --port 8080 --proxy 'localhost:9000' --files 'src/**/*'"
   },
