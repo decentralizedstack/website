@@ -3,12 +3,14 @@
 ghpages = require 'gh-pages'
 path = require 'path'
 
-handle_error = (err) -> console.error err if err
+handle_error = (err) ->
+  if err
+    console.error err
+    process.exit 1
 
 dist = path.join __dirname, '..', 'dist'
 
 options =
   dotfiles: true
 
-# ghpages.publish dist, options, handle_error
-ghpages.publish dist, handle_error
+ghpages.publish dist, options, handle_error
