@@ -2,7 +2,7 @@
 
 ### You are the value
 
-* Private by default - creating value networks within our own flexible "walled gardens"
+* Your information is private by default; when you share, this sharing should also be private by default.  This private sharing creates value networks within our own "walled gardens"
 * Viral Private Sharing - sharing a "group" or "federation" private key, which unlocks a whole body of content, and is intended to be reshared
 * Semantic Currency - our words and ideas and sensemaking is itself the most valuable currency
 
