@@ -1,0 +1,26 @@
+doctype html
+html.no-js(lang='en')
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    title DStack: A Decentralized Open Technology Stack
+    link(rel='stylesheet', href='/styles/foundation.css')
+    link(rel='stylesheet', href='/styles/main.css')
+    script(src='/js/vendor/modernizr.js')
+  body      
+    .hero
+      .row
+        .large-12.columns.intro-text
+          p
+            | DStack
+            br
+            | Decentralized Open Technology Stack
+
+    .row.about
+      .large-12.columns
+        != yield
+
+    script(src='/js/vendor/jquery.js')
+    script(src='/js/foundation.min.js')
+    script.
+      $(document).foundation();
