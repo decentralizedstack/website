@@ -1,21 +1,21 @@
 ## Principles
 
-### You are the value
+### We are the value
 
-* Your information is private by default; when you share, this sharing should also be private by default.  This private sharing creates value networks within our own "walled gardens"
+* Our information is private by default; when we share, this sharing should also be private by default.  This private sharing creates value networks within our own "walled gardens"
 * Viral Private Sharing - sharing a "group" or "federation" private key, which unlocks a whole body of content, and is intended to be reshared
 * Semantic Currency - our words and ideas and sensemaking is itself the most valuable currency
 
-### The power is in your hands
+### The power is in our hands
 
 * No central authority
 * Vendor Relationship Management
-* You own your data - accessed through Self Authentication
+* We own our data - accessed through Self Authentication
 
 ### Giant Global Graph
 
-* Your personal graph server serves up your public and private content, either free or monetized 
-* Omnicentric visual interfaces allow you to naturally explore connections 
+* Our personal graph server serves up our public and private content, either free or monetized 
+* Omnicentric visual interfaces allow us to naturally explore connections 
 
 ## Architecture
 
