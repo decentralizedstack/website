@@ -3,10 +3,7 @@
 ghpages = require 'gh-pages'
 path = require 'path'
 
-handle_error = (err) ->
-  if err
-    console.error err
-    process.exit 1
+handle_error = (error) -> throw new Error error if error
 
 dist = path.join __dirname, '..', 'dist'
 
