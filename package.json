@@ -1,7 +1,7 @@
 {
   "name": "dstack-website",
   "version": "0.0.1",
-  "description": "",
+  "description": "DStack: A Decentralized Open Technology Stack",
   "main": "server.js",
   "scripts": {
     "compile": "./node_modules/.bin/harp compile src dist",
