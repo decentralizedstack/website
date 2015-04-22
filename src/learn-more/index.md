@@ -1,14 +1,14 @@
 # Introduction  
 
-People have wondered for years about what comes after the big social networks that dominate the web today [1]. Attempts have been made to decentralize social networking, but all have been unsuccessful compared to the adoption of incumbent networks [2]. The Last Social Network will succeed where others have failed by using a combination of new and existing data formats and protocols to redecentralize the web while maintaining the high-quality experience people have come to expect. This technology will give people powerful tools for sharing information with more control over their privacy and the value they produce online.  
+People have wondered for years about what comes after the big social networks that dominate the web today [1]. Attempts have been made to decentralize social networking, but all have been unsuccessful compared to the adoption of incumbent networks [2]. DStack will succeed where others have failed by using a combination of new and existing data formats and protocols to redecentralize the web while maintaining the high-quality experience people have come to expect. This technology will give people powerful tools for sharing information with more control over their privacy and the value they produce online.  
 
 # Design Philosophy  
 
-The Last Social Network (LSN) is not intended to be yet-another social networking app, but rather the underlying plumbing which connects apps together. This philosophy is guided by the realization that the Internet itself is a social network, albeit one governed by protocols which have trended towards centralization rather than decentralization. By creating a generalized framework and providing only the basic components that others can build on, we ensure an open ecosystem that gives app developers complete freedom to build while ensuring that user autonomy is respected in the process. To align incentives for the participation of all stakeholders in the ecosystem, monetization mechanisms will be native to the LSN, enabling app developers, data producers, and data consumers to partake in a frictionless information economy. The LSN will serve as a basis for "Web 3.0" platforms that put users, rather than "the Stacks", at the center of the network [3][4].  
+DStack is the underlying plumbing which connects apps together. This philosophy is guided by the realization that the Internet itself is a social network, albeit one governed by protocols which have trended towards centralization rather than decentralization. By creating a generalized framework and providing only the basic components that others can build on, we ensure an open ecosystem that gives app developers complete freedom to build while ensuring that user autonomy is respected in the process. To align incentives for the participation of all stakeholders in the ecosystem, monetization mechanisms will be native to the LSN, enabling app developers, data producers, and data consumers to partake in a frictionless information economy. The LSN will serve as a basis for "Web 3.0" platforms that put users, rather than "the Stacks", at the center of the network [3][4].  
 
 # The Components  
 
-This is the basic stack for the Last Social Network:
+This is the basic stack:
 
 ![LSN Stack](https://p2pconnectsus.files.wordpress.com/2015/02/lsnstack.png)
    
@@ -54,7 +54,7 @@ Visualization software is used for the human interface of the LSN. It gives abst
 
 This section will describe the unhosted Last Social Network app [13].
 
-## The Last Social Network(TM)  
+## The Last Social Network
 
 A "social network" can be a very nebulous concept. In this instance, "The Last Social Network" refers to a specific design pattern on the Internet whereby people connect with other people that they find interesting - referred to variously as: "friends," "connections," or simply "accounts" - and share either found or original content with them. This content can be pictures, videos, audio tracks, text posts, or some combination thereof (coming soon: scents and brain signals) [14][15]. Since the LSN has monetization built into the core, users can also transfer value to one another, either as a voluntary donation or as part of a market exchange.  
 
