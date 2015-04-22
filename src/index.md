@@ -31,8 +31,6 @@
 
 ### Circles
 
-Defined by sharing, which is done by group sync tools 
-
 * [syncthing](http://syncthing.net/) 
 
 ### Graph structure 
@@ -46,4 +44,8 @@ Defined by sharing, which is done by group sync tools
 ### Hosting & Deployment
 
 * [Flynn](https://flynn.io/) (open source; uses Docker containers) 
+
+## Learn More
+
+To dive in deeper, check out the [whitepaper](/learn-more) we are working on.
 
