@@ -13,8 +13,9 @@ dist = path.join __dirname, '..', 'dist'
 options =
   logger: console.log
   dotfiles: true
+  message: 'Update gh-pages [ci skip]'
   user:
-    name: 'Deploy Bot',
+    name: 'Deploy Bot'
     email: 'deploy+bot@dstack.org'
 
 ghpages.publish dist, options, handle_error
