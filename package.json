@@ -11,6 +11,7 @@
     "dev": "npm start & npm run watch-data & npm run watch",
     "publish": "npm run compile && bin/publish",
     "shipit": "npm test && git push origin head",
+    "start": "./node_modules/.bin/harp server --port ${PORT:=9000} src",
     "test": "npm run build",
     "watch": "browser-sync start --port 8080 --proxy 'localhost:9000' --files 'src/**/*'",
     "watch-data": "nodemon --watch data.coffee data.coffee"
