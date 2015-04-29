@@ -48,7 +48,7 @@ The Openname will be used in conjunction with two sets of keys: Blockchain keys,
 
 ## Visualization  
 
-Visualization software is used for the human interface of the LSN. It gives abstract form to the raw data stored in the network, providing powerful tools for end-users to view and manipulate the information they have access to by categorizing, linking, searching, sharing, and incorporating it into larger structures.   
+Visualization software is used for the human interface of the LSN. It gives form to the raw data stored in the network, providing powerful tools for end-users to view and manipulate the information they have access to by categorizing, linking, searching, sharing, and incorporating it into larger structures.   
 
 # The Last Social Network app  
 
