@@ -48,27 +48,27 @@ Openname will be used in conjunction with two sets of keys: Blockchain keys, and
 
 ## Visualization  
 
-Visualization software is used for the human interface of DStack. It gives form to the raw data stored in the network, providing powerful tools for end-users to view and manipulate the information they have access to by categorizing, linking, searching, sharing, and incorporating it into larger structures.   
+Visualization software is used for the human interface of DStack. It gives form to the raw data stored in the network, providing powerful tools for end-users to view and manipulate the information they have access to by categorizing, linking, searching, sharing, and incorporating it into larger structures.    
 
 # DStack Apps  
 
-This section will describe different apps that can be built with DStack[13].
+This section will describe different apps that can be built with DStack[13].  
 
-## The Last Social Network
+## The Last Social Network  
 
-A "social network" can be a very nebulous concept. In this instance, "The Last Social Network" refers to a specific design pattern on the Internet whereby people connect with other people that they find interesting - referred to variously as: "friends," "connections," or simply "accounts" - and share either found or original content with them. This content can be pictures, videos, audio tracks, text posts, or some combination thereof (coming soon: scents and brain signals) [14][15]. Since DStack has monetization built into the core, users can also transfer value to one another, either as a voluntary donation or as part of a market exchange.  
+A "social network" can be a very nebulous concept. In this instance, "The Last Social Network" refers to a specific design pattern on the Internet whereby people connect with other people that they find interesting - referred to variously as: "friends," "connections," or simply "accounts" - and share either found or original content with them. This content can be pictures, videos, audio tracks, text posts, or some combination thereof (coming soon: scents and brain signals) [14][15]. Since DStack has monetization built into the core, users can also transfer value to one another, either as a voluntary donation or as part of a market exchange.   
 
 To use the Last Social Network app, the user would first download the app, open it, and click "new account." This will prompt them to either register with an existing Openname or create a new Openname. The app will then create a symmetric encryption container for all of the user's activity data. The symmetric encryption key used to encrypt this data is a version of the user's Openname that is cryptographically signed using their private key. Each time the user creates a private post on the network, another symmetric encryption container will be created and the symmetric key will be the hash of the post file signed by the user's private key.  Public posts are stored as plaintext hashes. The master list of a user's data hashes and metadata is kept in the encrypted activity data container and used by the app to make a user's data easy to categorize and link together in different nodespheres. If the user wants to share something private with a friend, the user will encrypt the data with the public key associated with their friend's Openname. All of the data produced by the user through their use of the Last Social Network app is stored in the IPFS network.  
 
-Data can be discovered through nodespheres, which are constructed by the user as they use the app and categorize data that they create or is shared with them. An Openname can be created for each nodesphere, with the hash of the nodesphere added as an attribute of the Openname and updated each time the nodesphere is modified. Nodespheres can structure data in the same kind of tree format that is seen elsewhere in computing i.e. dstack/wiki/whitepaper; "dstack" being the root category, "wiki" a folder in that category, and "whitepaper" a file in that folder. Alice could have a friends/school/bob nodesphere named "Bob," which is a nodephere of nodespheres with all of the posts shared with her by her friend Bob. She can share this "Bob" nodesphere with Carol by telling her that it is called "Bob" or by giving Carol the hash of the nodesphere; either will give Carol access to all of the data in the nodesphere via IPFS.
+Data can be discovered through nodespheres, which are constructed by the user as they use the app and categorize data that they create or is shared with them. An Openname can be created for each nodesphere, with the hash of the nodesphere added as an attribute of the Openname and updated each time the nodesphere is modified. Nodespheres can structure data in the same kind of tree format that is seen elsewhere in computing i.e. dstack/wiki/whitepaper; "dstack" being the root category, "wiki" a folder in that category, and "whitepaper" a file in that folder. Alice could have a friends/school/bob nodesphere named "Bob," which is a nodephere of nodespheres with all of the posts shared with her by her friend Bob. She can share this "Bob" nodesphere with Carol by telling her that it is called "Bob" or by giving Carol the hash of the nodesphere; either will give Carol access to all of the data in the nodesphere via IPFS.  
 
-##Apps which can be built with DStack:
+##Apps which can be built with DStack:  
 
-Twister [16]
-Alexandria [17]
-ZeroNet [18]
-OpenBazaar [19]
-PopcornTime [20]
+Twister [16]  
+Alexandria [17]  
+ZeroNet [18]  
+OpenBazaar [19]  
+PopcornTime [20]  
 
 [1] <http://www.quora.com/The-Future-of-Facebook-Project>  
 [2] <http://motherboard.vice.com/blog/what-happened-to-the-facebook-killer-it-s-complicated>  
@@ -85,8 +85,8 @@ PopcornTime [20]
 [13] <http://www.unhosted.org>  
 [14] <http://www.cnn.com/2014/03/17/tech/innovation/the-ophone-phone-lets-you-send-smells/index.html>  
 [15] <http://homes.cs.washington.edu/~rao/brain2brain/>  
-[16] <http://twister.net.co/>
-[17] <https://www.youtube.com/watch?v=z_u-ndscZjY>
-[18] <https://github.com/HelloZeroNet/ZeroNet>
-[19] <https://openbazaar.org/>
-[20] <http://time4popcorn.se/>
+[16] <http://twister.net.co/>  
+[17] <https://www.youtube.com/watch?v=z_u-ndscZjY>  
+[18] <https://github.com/HelloZeroNet/ZeroNet>  
+[19] <https://openbazaar.org/>  
+[20] <http://time4popcorn.se/>  
