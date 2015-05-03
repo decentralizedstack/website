@@ -62,7 +62,7 @@ To use the Last Social Network app, the user would first download the app, open 
 
 Data can be discovered through nodespheres, which are constructed by the user as they use the app and categorize data that they create or is shared with them. An Openname can be created for each nodesphere, with the hash of the nodesphere added as an attribute of the Openname and updated each time the nodesphere is modified. Nodespheres can structure data in the same kind of tree format that is seen elsewhere in computing i.e. dstack/wiki/whitepaper; "dstack" being the root category, "wiki" a folder in that category, and "whitepaper" a file in that folder. Alice could have a friends/school/bob nodesphere named "Bob," which is a nodephere of nodespheres with all of the posts shared with her by her friend Bob. She can share this "Bob" nodesphere with Carol by telling her that it is called "Bob" or by giving Carol the hash of the nodesphere; either will give Carol access to all of the data in the nodesphere via IPFS.
 
-Apps which can be built with DStack:
+##Apps which can be built with DStack:
 
 Twister [16]
 Alexandria [17]
