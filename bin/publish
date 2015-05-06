@@ -6,7 +6,7 @@ path = require 'path'
 handle_error = (error) ->
   if error
     console.error error
-    process.exit error.code or 1
+    process.exit Number(error.errno) or 1
 
 dist = path.join __dirname, '..', 'dist'
 
